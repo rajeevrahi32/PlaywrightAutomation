@@ -1,6 +1,7 @@
 # PlaywrightAutomation
 This test framework is created using POM design pattern and tests are written using Typescript as a programming language.
-We have taken https://opensource-demo.orangehrmlive.com/web/index.php/auth/login as test subject and the below scenario is automated:
+We have taken [openhrm](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) as test subject and the below scenario is automated:
+
 1. Navigate to https://opensource-demo.orangehrmlive.com/index.php
 2. Log in as Admin
 3. Add new employee (PIM &gt; Add Employee)
@@ -15,7 +16,7 @@ details(PIMEmployee List)
 ## How to setup the framework
 Step1: You need to first clone this repo in you system using command:
 
-  `git clone https://github.com/Rajeevrahi5/PlaywrightAutomation.git`
+  `git clone git@github.com:rajeevrahi32/PlaywrightAutomation.git`
 
 Step2: Make sure you have [nodejs](https://nodejs.org/en/) installed.
 
