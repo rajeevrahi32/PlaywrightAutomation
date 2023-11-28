@@ -1,0 +1,25 @@
+{
+    "url":"https://opensource-demo.orangehrmlive.com/index.php",
+    "userName":"Admin",
+    "password":"admin123",
+    "firstName":"John",
+    "middleName":"H",
+    "lastName":"Doe",
+    "nickName":"Johnny",
+    "otherId":"OTID332",
+    "licenseNumber":"DL2319A",
+    "licenseExpDate":"2025-09-10",
+    "ssnNumber":"SS78910",
+    "sinNumber":"SI76109",
+    "nationality":"Swedish",
+    "maritalStatus":"Married",
+    "dateOfBirth":"1988-09-10",
+    "gender":"Female",
+    "militaryService":"MLS441",
+    "smoker":"Yes",
+    "fullName":[
+        {"firstName":"John", "middleName":"H", "lastName":"Doe"},
+        {"firstName":"Harry", "middleName":"I", "lastName":"Bean"},
+        {"firstName":"Kathy", "middleName":"J", "lastName":"Perry"}
+    ]
+}
